@@ -24,9 +24,6 @@ User to sign up
 User to login
 - [x] Login with username and password.
 
-Profile Screen
-- [x] Display profile details like username, weight, and height (optional).
-
 User to Home Screen
  - [x] Display past workout logs including exercises, sets, and dates.
  - [x] Show total calories burned over a selectable time period (daily/weekly/monthly).
