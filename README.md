@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Overview](#Overview)
-1. [App Flow](#App Flow)
+1. [App Flow](#App-Flow)
 2. [Schema](#Schema)
 
 ## Overview
