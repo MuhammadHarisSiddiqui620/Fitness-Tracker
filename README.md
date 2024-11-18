@@ -108,10 +108,6 @@ In workout screen
     * --> provide data to the user using a Detail Screen Archetypes once one of the charts get clicked on
     * --> provide the friends feed to the user, might be implemented on another activity
 
-## Wireframes
-<img src="WireFrame.png" width=600>
-
-
 ### [BONUS] Digital Wireframes & Mockups
 
 ### [BONUS] Interactive Prototype
