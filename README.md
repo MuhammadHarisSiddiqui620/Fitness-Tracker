@@ -63,7 +63,6 @@ Workout Screen
 **Tab Navigation** (Tab to Screen)
 
 * Login
-* Profile
 * Home Screen
 * Workout Activity
     * workout
