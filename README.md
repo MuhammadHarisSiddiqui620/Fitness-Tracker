@@ -50,23 +50,12 @@ In workout screen
 - [x] display select workout
 - [x] workout completed button -> display calorie and time results. W/ a positive message. Close screen back to home page.
  
-
-
-**Optional Nice-to-have Stories**
-
-* Include a social aspect where the user could post the activities they have completed
-* Workout "how to" videos
-* Hiking trails (Social workout mode :)
-* In Profile: Followers(count) and Follows(count)
-* in Home Screen: display workouts from with in friends network
-
 ### 2. Screen Archetypes
 
 * Login / Register
     * After Login and Registration, User is then moved to the home screen
 * Stream
     * Home screen will be a dashboard interface, that will display certain data such as past workouts and calories burnt
-    * A feature where the user could access workout videos. 
     * Social media aspect will display the workout of friends
 * Creation
     * The user will be inputing data based on the workout they're completing/tracking. The input will then be saved so that the user could view their progress. 
@@ -84,8 +73,6 @@ In workout screen
 * Home Screen
 * Workout Activity
     * workout
-* Workout videos
-
 
 **Flow Navigation** (Screen to Screen)
 
@@ -96,10 +83,6 @@ In workout screen
 * Homescreen
     * --> provide data to the user using a Detail Screen Archetypes once one of the charts get clicked on
     * --> provide the friends feed to the user, might be implemented on another activity
-
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
 
 ## Schema 
 [This section will be completed in Unit 9]
