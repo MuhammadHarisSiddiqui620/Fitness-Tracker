@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Overview](#Overview)
-1. [Product Spec](#Product-Spec)
+1. [App Flow](#App Flow)
 2. [Schema](#Schema)
 
 ## Overview
@@ -18,7 +18,7 @@ Allows users to create profiles to track their fitness goals. This is a self rep
 - **Habit:** Depending on the users workout schedule. The user will be creating data to track their workouts, and the user will also be able to view videos on specific workouts. The user will be able to create posts, so friends could also view thei fitness progress.
 - **Scope:** We already have most of the resources to create a barebones version, but the challenging aspect to this is learning how to use new API's and new libraries.
 
-## Flow of the App
+## App Flow
 
 User to sign up
 - [x] Collect essential details: name, username, password, weight, height.
