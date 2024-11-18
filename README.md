@@ -18,36 +18,31 @@ Allows users to create profiles to track their fitness goals. This is a self rep
 - **Habit:** Depending on the users workout schedule. The user will be creating data to track their workouts, and the user will also be able to view videos on specific workouts. The user will be able to create posts, so friends could also view thei fitness progress.
 - **Scope:** We already have most of the resources to create a barebones version, but the challenging aspect to this is learning how to use new API's and new libraries.
 
-## Product Spec
+## Flow of the App
 
-### 1. User Stories (Required and Optional)
-
-**Required Must-have Stories**
 User to sign up
-- [x] name, username, password,wt,ht
-    
+- [x] Collect essential details: name, username, password, weight, height.
+
 User to login
-- [x] username
-- [x] password
+- [x] Login with username and password.
 
 Profile Screen
-- [x] username, ht, weight(maybe?)
+- [x] Display profile details like username, weight, and height (optional).
 
-User to home screen
-- [x] display past days workouts
-- [x] display total burned calories over a given duration
+User to Home Screen
+ - [x] Display past workout logs including exercises, sets, and dates.
+ - [x] Show total calories burned over a selectable time period (daily/weekly/monthly).
 
-Have a workout activity page that will begin to track the users activities. 
-- [x] This will have a checkbox for the premade list of exercises. 
-- [X] a start/stop button(starts timer)
-- [x] Finish button should go to summary
-- [x] In summary, calculated calories should be displayed
+Workout Activity Tracking Page
+ - [x] Display a pre-set list of exercises the user can select from.
+ - [x] Provide a timer that users can start/stop during their workout session.
+ - [x] "Finish" button redirects to summary screen with workout details.
+ - [x] Summary screen shows calories burned and time spent on each exercise, with an option to save the workout.
 
-
-In workout screen
-- [x] display timer(to calc burned calories)
-- [x] display select workout
-- [x] workout completed button -> display calorie and time results. W/ a positive message. Close screen back to home page.
+Workout Screen
+ - [x] Show a real-time timer to track workout duration and calories burned.
+ - [x] Allow users to select the type of workout they're performing (e.g., running, weightlifting).
+ - [x] Include a button to mark the workout as completed, display a positive message with the summary, then close and return to the home screen.
  
 ### 2. Screen Archetypes
 
